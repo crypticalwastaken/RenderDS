@@ -65,7 +65,7 @@ go support him if you can
 https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
 RESRGAN originally based on the work done by the cleaner aesthetics team, circa May 2020. [Check them out!](https://github.com/CrashCrod/Cleaner-Aesthetics)
-![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-06.jpg)
+![](screenshots/logo(2).png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2001-23-16.jpg)
