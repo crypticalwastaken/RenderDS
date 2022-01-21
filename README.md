@@ -1,4 +1,4 @@
-RENDER96-HD-TEXTURE-PACK
+RenderDS-HD-Texture-Pack
 --------------------------
 https://linktr.ee/Render96
 
