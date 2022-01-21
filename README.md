@@ -14,7 +14,7 @@ DS Remastered Discord server: https://discord.gg/WJ49qRG
 Render DS Contributors:
 ------------------------------
 
-Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of lately i have been using a lot to further enhance some of the old texture finds we've been coming across.
+Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of lately i have been using a lot to get rid of that filthy ds dxt compression.
 go support him if you can
 
 *Previews*
