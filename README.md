@@ -2,69 +2,25 @@ RenderDS-HD-Texture-Pack
 --------------------------
 https://linktr.ee/Render96
 
-Huge shoutouts to DorfDork for creating the RENDER96 PROJECT and for letting me be a part of it.
+Huge shoutouts to DorfDork for creating the RENDER96 PROJECT, ExcellentGamer for creating the DS Remastered Project, and for him letting me be a part of it.
 
-A collaboration texture pack for Super Mario 64 with the people over at the OldSchool HD, now known as Render 96, that is made of a compillation of the best results ESRGAN upscaling could make as the base for this project, as well of some of the original textures Nintendo used, and a heavier focus in original textures made by project contributors which will eventually be an overwhelming majority of what this project is made of.
+This is a texture pack for the Super Mario 64 PC port based on Render 96, that is made of a compillation of the best results ESRGAN upscaling could make as the base for this project, as well of some of the original textures Nintendo used, and a heavier focus in original textures made by project contributors which will eventually be an overwhelming majority of what this project is made of.
 
-The end goal for this project is to use the original sources for every texture in the game when possible, and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources Nintendo had at their disposal back in 1996, as well of incorporating elements from the promotional art into the game with ESRGAN upscales as placeholders for the original textures. The team and I will make to fill in the blanks where no texture sources could be found.
+The end goal for this project is to use, find, and or recreate the original sources for every texture in the game when possible, and use that to hopefully achieve 100% accuracy by recreating the textures with the same process and resources Nintendo had at their disposal back in 1996, as well of incorporating elements from the promotional art into the game with ESRGAN upscales as placeholders for the original textures. The team and I will make to fill in the blanks where no texture sources could be found.
 
 
-Render 96 Discord server: discord.com/invite/render96
+DS Remastered Discord server: https://discord.gg/WJ49qRG
 
-Render 96 Contributors:
+Render DS Contributors:
 ------------------------------
-[DorfDork](https://twitter.com/DorfDork)
-
-Clamibalism
-
-[Fanamel](https://twitter.com/FanamelT) - Found Matches/Provided Hires Links, Maintains Spreadsheet, Worked on adding textures
-
-[Roovahlees](https://www.youtube.com/channel/UCrOHwRwupiQSqbKih14MnHQ) - Found Matches/Provided Hires Links
-
-[Poke Headroom](https://twitter.com/PokeHeadroom) - Found Matches/Provided Hires Links, Worked on adding textures, Render 96 Texture Pack lead
-
-[JY](https://twitter.com/jycompany) - Found Matches/Provided Hires Links, Worked on adding textures
-
-Deefor - Found Matches/Provided Hires Links	
-
-Uh-Huh - Found Matches/Provided Hires Links	
-
-Pik - Found Matches	
-
-[Threeplanet](https://twitter.com/TPlanet66) - Worked on adding textures
-
-TheExpectedknight - Worked on adding textures
-
-granvillimus - Worked on adding textures
-
-[Maxigamer](https://twitter.com/MaxiGamerART) - Worked on Fonts and HUD elements
-
-Nicobros - Worked on painting artwork
-
-P3ST - Provided Placeholder Assets
-
-[YinyangGio1987](https://twitter.com/YinyangGio1987) - Worked on WDW render painting
-
-[dokotroopi](https://twitter.com/dokotroopi) - Worked on adding textures
-
-[MtH](https://twitter.com/MtH13208) - Worked on adding textures
-
-[Bradley](https://www.youtube.com/channel/UCYEasINbPTxXiUMHivtYxWg/featured) - Worked on Jolly Roger Bay painting
-
-[Nugget](https://twitter.com/7h3nugg3tm4st3R) - Worked on Tiny huge island painting
-
-[Maz](https://twitter.com/_Mazeo_) - Worked on luigi key
-
-Shoutouts to [GhostlyDark](https://evilgames.eu/) for keeping an eye out for the technical stuff
 
 Shoutouts to the [Game Upscale](https://discord.gg/nbB4A5F) discord server and to [N00MKRAD](https://www.patreon.com/n00mkrad) creator of [Cupscale](https://github.com/n00mkrad/cupscale) which is a tool that as of lately i have been using a lot to further enhance some of the old texture finds we've been coming across.
 go support him if you can
 
-*RESRGAN contributors*
+*Previews*
 ------------------------
-https://github.com/pokeheadroom/RESRGAN-16xre-upscale-HD-texture-pack/tree/n64-resrgan-faithful
 
-RESRGAN originally based on the work done by the cleaner aesthetics team, circa May 2020. [Check them out!](https://github.com/CrashCrod/Cleaner-Aesthetics)
+Here's what we've got so far:
 ![](screenshots/render.png)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-52-23.jpg)
 ![](screenshots/sm64.us.f3dex2e%202020-07-04%2000-53-27.jpg)
